@@ -30,3 +30,5 @@ Music uploaded by [RFM-NCM](https://www.youtube.com/@RFM_NCM)
 12. R&B & Soul
 13. Children's
 14. Alternative & Punk
+
+If there are any problems with the license, add an issue as the license was pulled by a bot.
