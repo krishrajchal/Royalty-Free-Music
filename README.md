@@ -7,6 +7,8 @@ Music uploaded by [RFM-NCM](https://www.youtube.com/@RFM_NCM)
 1. Download assets.json and all the MP3s.
 2. Get the song information from [assets.json](assets.json).
 3. Have the Creative Commons license somewhere on your app **MANDATORY (only if the song has a license)**
+### Download one song with url
+[https://github.com/krishrajchal/Royalty-Free-Music/blob/master/](https://github.com/krishrajchal/Royalty-Free-Music/blob/master/) + song + ?raw=true
 
 ## JSON Objects
 1. "author": Author of the song
@@ -31,4 +33,4 @@ Music uploaded by [RFM-NCM](https://www.youtube.com/@RFM_NCM)
 13. Children's
 14. Alternative & Punk
 
-If there are any problems with the license, add an issue as the license was pulled by a bot.
+If there are any problems with the license or anything else, add an issue as the almost everything was made with a bot.
