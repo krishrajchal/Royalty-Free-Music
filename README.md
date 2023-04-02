@@ -18,6 +18,7 @@ Music uploaded by [RFM-NCM](https://www.youtube.com/@RFM_NCM)
 3. "genre": What genre it is.
 4. "path": The path to the mp3 of the song
 5. "cc": Creative Commons license. Needed only if it is not empty.
+6. "albumArt": Link to the album art. This also shows if the song has album art. If the song has no album art, the value is "".
 
 ## Genres
 1. Country & Folk
