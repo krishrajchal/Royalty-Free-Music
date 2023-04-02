@@ -9,6 +9,8 @@ Music uploaded by [RFM-NCM](https://www.youtube.com/@RFM_NCM)
 3. Have the Creative Commons license somewhere on your app **MANDATORY (only if the song has a license)**
 ### Download one song using url
 [https://github.com/krishrajchal/Royalty-Free-Music/blob/master/](https://github.com/krishrajchal/Royalty-Free-Music/blob/master/) + path + ?raw=true
+### Download album art using url
+[https://github.com/krishrajchal/Royalty-Free-Music/blob/master/](https://github.com/krishrajchal/Royalty-Free-Music/blob/master/) + path (replace .mp3 with .jpg) + ?raw=true
 
 ## JSON Objects
 1. "author": Author of the song
